@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.28e82d3d.chunk.js",
-    "main.js.map": "/static/js/main.28e82d3d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7704a690.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7704a690.js.map",
-    "static/js/2.4a36835a.chunk.js": "/static/js/2.4a36835a.chunk.js",
-    "static/js/2.4a36835a.chunk.js.map": "/static/js/2.4a36835a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.4a36835a.chunk.js.LICENSE.txt": "/static/js/2.4a36835a.chunk.js.LICENSE.txt"
+    "main.js": "/react-study-todo-app/static/js/main.28e82d3d.chunk.js",
+    "main.js.map": "/react-study-todo-app/static/js/main.28e82d3d.chunk.js.map",
+    "runtime-main.js": "/react-study-todo-app/static/js/runtime-main.ba359a4c.js",
+    "runtime-main.js.map": "/react-study-todo-app/static/js/runtime-main.ba359a4c.js.map",
+    "static/js/2.4a36835a.chunk.js": "/react-study-todo-app/static/js/2.4a36835a.chunk.js",
+    "static/js/2.4a36835a.chunk.js.map": "/react-study-todo-app/static/js/2.4a36835a.chunk.js.map",
+    "index.html": "/react-study-todo-app/index.html",
+    "static/js/2.4a36835a.chunk.js.LICENSE.txt": "/react-study-todo-app/static/js/2.4a36835a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7704a690.js",
+    "static/js/runtime-main.ba359a4c.js",
     "static/js/2.4a36835a.chunk.js",
     "static/js/main.28e82d3d.chunk.js"
   ]
