@@ -9,7 +9,9 @@ export const NewTodo: VFC<Props> = ({ onAdd }) => {
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-
+    if (title === "") {
+      return;
+    }
     onAdd(title);
     setTitle("");
   };
